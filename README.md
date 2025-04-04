@@ -46,7 +46,7 @@ This application processes your Limitless Life Logs and organizes them into your
 
 ## First-Time Setup
 
-When you first run the app, you'll need to provide:</br></br>
+When you first run the app, you'll see the letter "L" on your taskbar thingy at the top right of your Mac. Click on that, and click "Process New Logs. Should bring up a terminal window and you will need to provide:</br></br>
 
 1. The path to your Obsidian vault</br>
    - To find your vault path:</br>
