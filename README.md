@@ -18,31 +18,31 @@ This application processes your Limitless Life Logs and organizes them into your
 3. Navigate to the unzipped folder. Copy and paste this command, replacing the path with your actual path:</br>
    ```bash
    cd /path/to/unzipped/folder
-   ```</br>
+   ```
    For example, if you unzipped to Downloads:</br>
    ```bash
    cd ~/Downloads/Limitless_Life_Logs
-   ```</br></br>
+   ```
 
 4. Make the installation script executable. Copy and paste this exact command:</br>
    ```bash
    chmod +x install.sh
-   ```</br></br>
+   ```
 
 5. Run the installation script. Copy and paste this exact command:</br>
    ```bash
    ./install.sh
-   ```</br></br>
+   ```
 
 6. Make the launcher script executable. Copy and paste this exact command:</br>
    ```bash
    chmod +x launcher.sh
-   ```</br></br>
+   ```
 
 7. Run the launcher script. Copy and paste this exact command:</br>
    ```bash
    ./launcher.sh
-   ```</br></br>
+   ```
 
 ## First-Time Setup
 
